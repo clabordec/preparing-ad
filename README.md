@@ -26,7 +26,7 @@ This project outlines the installation of on-premises Active Directory within Az
 
 - Create Resource Group
 - Create a Virtual Network
-- Create a Domain Controller with the Windows Server 2022 OS named `dc-1`
+- Create a Domain Controller with the Windows Server 2022 Datacenter OS named `dc-1`
     - Username: adminuser
     - Password: AdminSecurePassword123!!!
 - Create a CLient VM with the Windows 10 Pro OS name `client-1`
