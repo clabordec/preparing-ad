@@ -117,6 +117,6 @@ This project outlines the installation of on-premises Active Directory within Az
 <img src="https://github.com/user-attachments/assets/12f9bb63-b623-4c2f-a656-5e54882d75af" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://github.com/user-attachments/assets/29c7c39e-ae31-4d47-98e7-7dbd0ad93ef0"  width="550" alt="Disk Sanitization Steps" />
+<img src="https://github.com/user-attachments/assets/c10dbb36-1000-47dd-aee9-3aaf3213cbb0" width="550" alt="Disk Sanitization Steps" />
 </p>
 <br />
