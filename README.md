@@ -120,3 +120,17 @@ This project outlines the installation of on-premises Active Directory within Az
 <img src="https://github.com/user-attachments/assets/c10dbb36-1000-47dd-aee9-3aaf3213cbb0" width="550" alt="Disk Sanitization Steps" />
 </p>
 <br />
+
+### Set `client-1` DNS settings to match `dc-1` Private IP address
+<p>
+<img src="https://github.com/user-attachments/assets/b0729472-1c35-4ec5-a92c-8658ba2af405" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/2a1f8bf2-a9f3-4fac-be5c-7ef9534cd4ce" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+<img src="https://github.com/user-attachments/assets/2a1f8bf2-a9f3-4fac-be5c-7ef9534cd4ce" width="550" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+
