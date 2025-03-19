@@ -157,7 +157,7 @@ This project outlines the installation of on-premises Active Directory within Az
 </p>
 <br />
 
-### Log into `client-1` and runt the `ipconfig /all` command to view all internet protocal configurations
+### Log into `client-1` and run the `ipconfig /all` command to view all internet protocal configurations
 <p>
 <img src="https://github.com/user-attachments/assets/f5ea1c2e-a2dd-4da7-b028-5870a012b1d4" width="550" alt="Disk Sanitization Steps"/>
 </p>
