@@ -114,9 +114,9 @@ This project outlines the installation of on-premises Active Directory within Az
 
 ### Click on the Network section and assign the `windows-vnet` to the VM
 <p>
-<img src="https://github.com/user-attachments/assets/46cbaada-41c5-4b4a-8ff2-56c7c03cd2a0" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/12f9bb63-b623-4c2f-a656-5e54882d75af" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://github.com/user-attachments/assets/aa0a4ed0-dc9d-42c9-9f5d-668c4d5a1d6b" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/29c7c39e-ae31-4d47-98e7-7dbd0ad93ef0"  width="550" alt="Disk Sanitization Steps" />
 </p>
 <br />
